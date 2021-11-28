@@ -1,5 +1,5 @@
 ﻿<h1 align="center">Hi 👋, I'm test</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate frontend developer from Ukraine</h3>
 
 <h3 align="left">don't even try to connect with me</h3>
 
